@@ -1,0 +1,12 @@
+streamlit
+pandas 
+numpy 
+pandas 
+statsmodels
+matplotlib
+seaborn
+sklearn
+formula
+scipy
+tabulate
+io
