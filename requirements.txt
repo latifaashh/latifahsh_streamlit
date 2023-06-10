@@ -6,7 +6,7 @@ statsmodels
 matplotlib
 seaborn
 sklearn
-formula
+satsmodels
 scipy
 tabulate
 io
